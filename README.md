@@ -2,7 +2,7 @@
 
 ### Links
 
-[Periodic Tables Link]((https://infinite-fortress-00181.herokuapp.com/)
+[Periodic Tables Link](https://infinite-fortress-00181.herokuapp.com/)
 [Back End](https://bolor-reservations-backend.herokuapp.com/)
 ---
 ## Project Description
